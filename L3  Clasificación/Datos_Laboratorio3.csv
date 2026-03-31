@@ -1,4 +1,4 @@
-Edad;Gnereo;Peso;Altura;BMI;Objetivo;Condicion_salud;Nivel_Actividad;Nivel_experiencia;Dieta_preferida;Horas_sueño;Entrenamiento_preferido;Cantidad_equipo;Tiempo_disponible;Tiene_alergia;Problemas_digestivos;Fumador;Cigarrillos_dia;Alcohol;Alcohol_semana;Score_micronutrientes;Ingesta_proteinas;Pasos_dia;Ingesta_agua;Plan_entrenamiento;Plan_nutrición
+Edad;Genero;Peso;Altura;BMI;Objetivo;Condicion_salud;Nivel_Actividad;Nivel_experiencia;Dieta_preferida;Horas_sueï¿½o;Entrenamiento_preferido;Cantidad_equipo;Tiempo_disponible;Tiene_alergia;Problemas_digestivos;Fumador;Cigarrillos_dia;Alcohol;Alcohol_semana;Score_micronutrientes;Ingesta_proteinas;Pasos_dia;Ingesta_agua;Plan_entrenamiento;Plan_nutriciï¿½n
 60;Masculino;73.7;1.61;28.43;Resistencia;Hipertension;Bajo;Avanzado;Vegano;5.5;Funcional;3;98;0;0;0;0;0;0;0.92;182.1;16485;2.49;Medio;Sin plan
 17;Femenino;121;1.97;31.18;Resistencia;Enfermedad corazon;Moderado;Principiante;Vegetariano;6.9;Funcional;4;105;0;0;0;0;0;0;0.76;167.7;14256;2.04;Ninguno;Sin plan
 43;Masculino;110;1.52;47.61;General;Ninguno;Bajo;Principiante;No-Vegetariano;6;Fuerza;1;88;0;0;0;0;0;0;0.34;104.9;3050;2.53;Bajo;Basico
